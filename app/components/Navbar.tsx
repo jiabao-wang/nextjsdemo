@@ -14,7 +14,7 @@ const Navbar = () => {
           <div className="flex">
             <div className="shrink-0 flex items-center">
               <Link href="/" className="text-xl font-bold text-gray-800">
-                奢饰品服装
+                🧒服装
               </Link>
             </div>
           </div>
